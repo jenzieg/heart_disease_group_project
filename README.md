@@ -1,5 +1,5 @@
 # Project 5: Predicting Patient Risk for Cardiovascular Disease #
-## Catherine Clary, Jen Zieger, Basazin Belhu, Thomaz Moon 
+## Catherine Clary, Jen Zieger, Basazin Belhu, Thomaz Moon
 ___
 ### Sources
 1. [Heart Statlog](https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final)
@@ -60,7 +60,7 @@ Data Science Question: Which predictors are associated with CVD?
 | 8       | Maximum Heart Rate Achieved               | Max heart rate      | 71-202          | Numeric   |
 | 9       | Exercise Induced Angina                   | Exercise Angina     | 0,1             | Binary    |
 | 10      | Oldpeak = ST                              | oldpeak             | depression      | Numeric   |
-| 11      | The slop of the peak exercise ST segment  | ST slope            | 0,1,2           | Nominal   |
+| 11      | The slope of the peak exercise ST segment  | ST slope            | 0,1,2           | Nominal   |
 | 12      | Class                                     | Target              | 0,1             | Binary    |
 
 
